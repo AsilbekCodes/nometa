@@ -1,0 +1,5 @@
+Host: https://nometa.uz
+
+# Allow crawling of all content
+User-agent: *
+Allow: /
